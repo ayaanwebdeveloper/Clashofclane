@@ -1,0 +1,62 @@
+
+.det {
+    background-image: linear-gradient(to right, #002aff, #999eff);
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    margin-top: 50px;
+
+}
+.logo {
+    width: 30%;
+    margin-left: 2em;
+
+}
+.left {
+    width: 50%;
+    height: 100%;
+    
+}
+.cn {
+    color: skyblue;
+    font-weight: bold;
+    font-size: 5vh;
+    text-shadow: 0px 0px 20px #94C7CB;
+    margin-left: 2em;
+}
+.lor {
+    color: white;
+    margin-left: 2em;
+}
+.bt {
+    background-color: #266FA6;
+    color: white;
+    border-radius: 10px;
+    width: 20%;
+    height: 200%;
+    margin-bottom: 20px;
+    margin-left: 2em;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-weight: bold;
+    display: block;
+
+}
+.si {
+    margin-left: 2em;
+    margin-bottom: 100px;
+    position: relative;
+    top: 80px;
+}
+.right {
+    float: right;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+    left: 650px;
+}
+.drag {
+    z-index: 2;
+    width: 40%;
+    
+}
